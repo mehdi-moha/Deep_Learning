@@ -1,6 +1,6 @@
 # License Agreement
 
-## Copyright (c) 2025 Mehdi Mohammadi  
+## Copyright (c) 2024 Mehdi Mohammadi  
 **All Rights Reserved.**  
 
 The use of any files, code, or content within **this repository** is **strictly prohibited** unless explicit written permission is granted by the author.
